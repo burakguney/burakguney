@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm Burak from Türkiye<br><br>- 🔭 I’m working as full-stack developer<br>- 📚 I'm currently learning everything about the world of javascript.<br>- ⚡ In my free time I CODING!</p>
+<p align="left">I'm Burak from Türkiye<br><br>- 🔭 I’m working as full-stack developer<br>- 📚 I'm currently learning everything about the world of python and javascript.<br>- ⚡ In my free time I CODING!</p>
 
 ###
 
