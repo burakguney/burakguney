@@ -34,11 +34,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" height="40" width="52" alt="ubuntu logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="linux logo"  />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/burakguney/count.svg?"  />
-</div>
-
-###
